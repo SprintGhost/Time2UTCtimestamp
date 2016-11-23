@@ -1,4 +1,4 @@
-# Time2UTCtimetamp
+# Time2UTCtimestamp
 将任意一个时区的时间转换成timestamp。
 
 特别说明：有正则表达式，但有用正则表达式不能区分的如 2月30号，4月31号等，这些在逻辑上没有加以处理，如果输入2016-2-31这样的话会得到一个错误的timestamp

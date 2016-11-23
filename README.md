@@ -1,0 +1,2 @@
+# Time2UTCtimetamp
+将任意一个时区的时间转换成timestamp
